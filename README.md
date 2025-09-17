@@ -1,4 +1,4 @@
-#EMPOWER.ORG
+EMPOWER.ORG
 
 There are so many instances when we want to use our free time for giving back to the society but we are held back just because it can sometimes be hard and overwhelming to find a real place where we can bring a change.
 This is where empower.org comes in , we plan to create a platform where NGOs can post the drives they will be conducting over next few months and they can ask for volunteers or donations from all over India.
